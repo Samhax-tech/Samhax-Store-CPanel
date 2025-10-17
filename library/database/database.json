@@ -1,0 +1,28 @@
+{
+  "users": {
+    "923096761027@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    }
+  },
+  "groups": {
+    "120363401691021306@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    }
+  },
+  "database": {},
+  "settings": {
+    "anticall": false,
+    "autobio": false,
+    "autoread": false,
+    "autopromosi": false,
+    "autotyping": false,
+    "readsw": false,
+    "owneroffmode": false
+  }
+}
