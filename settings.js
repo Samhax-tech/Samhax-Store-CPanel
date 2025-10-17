@@ -15,7 +15,7 @@ global.versi = "1"
 global.namaOwner = "꧁༒♛ 𝙍𝙞𝙥𝙥𝙚𝙧 𝙎𝙖𝙢𝙝𝙖𝙭 ♛༒꧂"
 global.packname = '꧁༒♛ 𝙍𝙞𝙥𝙥𝙚𝙧 𝙎𝙖𝙢𝙝𝙖𝙭 ♛༒꧂'
 global.botname = '𝙎𝙖𝙢𝙝𝙖𝙭 𝙎𝙩𝙤𝙧𝙚 𝙋𝙖𝙣𝙚𝙡'
-global.botname2 = '𝙎𝙖𝙢𝙝𝙖𝙭 𝙎𝙩𝙤𝙧𝙚 𝙋𝙖𝙣𝙚𝙡 '
+global.botname2 = '𝙎𝙖𝙢𝙝𝙖𝙭 𝙎𝙩𝙤𝙧𝙚 𝙋𝙖𝙣𝙚𝙡'
 global.creator = '120363319544970162@s.whatsapp.net'
 
 //~~~~~~~~~~ Settings Channel~~~~~~~~~//
@@ -38,25 +38,25 @@ qris: "https://files.catbox.moe/0ep189.jpg"
 global.egg = "15" // Egg ID
 global.nestid = "5" // nest ID
 global.loc = "1" // Location ID
-global.domain = "https://panel.samhaxhostix.online" //Your domain, don't give it a sloping line ( /) behind the domain
-global.apikey = "ptla_o0WiCm7rBTHTy9Rqx81Ztnz7TLhW5p8fc4GQsE42gsy" //ptla mu
-global.capikey = "ptlc_Pg11fNI9Tgmohkc2Laf060OGXlKdNC0svzbAFCDsbW3" //ptlc mu
+global.domain = "https://YOUR_DOMAIN" //Your domain, don't give it a sloping line ( /) behind the domain
+global.apikey = "ptla_" //ptla mu
+global.capikey = "ptlc_" //ptlc mu
 
 //~~~~~~~~ Settings Api Panel 2 ~~~~~~~~//
 global.eggV2 = "15" // Egg ID
 global.nestidV2 = "5" // nest ID
 global.locV2 = "1" // Location ID
-global.domainV2 = "https://panel.samhaxhostix.online" //Your domain, don't give it a sloping line ( /) behind the domainmain
-global.apikeyV2 = "ptla_o0WiCm7rBTHTy9Rqx81Ztnz7TLhW5p8fc4GQsE42gsy" //ptla
-global.capikeyV2 = "ptlc_Pg11fNI9Tgmohkc2Laf060OGXlKdNC0svzbAFCDsbW3" //ptlc
+global.domainV2 = "https://YOUR_DOMAIN" //Your domain, don't give it a sloping line ( /) behind the domainmain
+global.apikeyV2 = "ptla_" //ptla
+global.capikeyV2 = "ptlc_" //ptlc
 
 //~~~~~~~~ Settings Api Panel 2 ~~~~~~~~//
 global.eggV3 = "15" // Egg ID
 global.nestidV3 = "5" // nest ID
 global.locV3 = "1" // Location ID
-global.domainV3 = "https:panel.samhaxhostix.online" //Your domain, don't give it a sloping line ( /) behind the domain
-global.apikeyV3 = "ptla_o0WiCm7rBTHTy9Rqx81Ztnz7TLhW5p8fc4GQsE42gsy" //ptla
-global.capikeyV3 = "ptlc_Pg11fNI9Tgmohkc2Laf060OGXlKdNC0svzbAFCDsbW3" //ptlc
+global.domainV3 = "https://YOUR_DOMAIN" //Your domain, don't give it a sloping line ( /) behind the domain
+global.apikeyV3 = "ptla_" //ptla
+global.capikeyV3 = "ptlc_" //ptlc
 
 //~~~~~~~~~~ Settings Message ~~~~~~~~//
 global.mess = {
